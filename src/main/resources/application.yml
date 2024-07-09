@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: JavaTicket
+server:
+  port: 2230
